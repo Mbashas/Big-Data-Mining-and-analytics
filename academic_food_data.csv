@@ -1,0 +1,501 @@
+Student_ID,Age,Academic_Subject,Academic_Level,Grade,Food_Type,Food_Preference,Calories_Consumed_per_Day
+1,17,Physics,High School,A,Protein,Vegetarian,152
+2,26,Mathematics,Postgraduate,B,Beverages,Non-Vegetarian,485
+3,34,Psychology,PhD,F,Desserts,Pescatarian,320
+4,18,Biology,Postgraduate,A,Fruits,Vegan,156
+5,30,Biology,Undergraduate,A,Fruits,Vegetarian,121
+6,21,Chemistry,PhD,C,Desserts,Pescatarian,70
+7,27,Physics,Postgraduate,B,Vegetables,Vegan,664
+8,24,Physics,Postgraduate,B,Protein,Pescatarian,171
+9,21,Literature,PhD,F,Dairy,Vegan,516
+10,28,Mathematics,Postgraduate,B,Grains,Pescatarian,264
+11,19,Mathematics,PhD,A,Beverages,Vegetarian,380
+12,17,Physics,Postgraduate,F,Vegetables,Pescatarian,508
+13,25,Biology,High School,B,Snacks,Pescatarian,137
+14,25,Biology,PhD,F,Protein,Vegan,422
+15,32,Mathematics,High School,B,Beverages,Pescatarian,149
+16,29,Biology,High School,B,Dairy,Non-Vegetarian,180
+17,26,Literature,Postgraduate,C,Fruits,Vegan,358
+18,23,Biology,Undergraduate,B,Snacks,Pescatarian,393
+19,24,History,High School,F,Fruits,Non-Vegetarian,541
+20,26,Psychology,High School,A,Vegetables,Vegan,463
+21,31,Mathematics,High School,C,Beverages,Vegetarian,435
+22,20,Chemistry,Undergraduate,B,Desserts,Vegan,241
+23,21,Literature,Undergraduate,B,Vegetables,Vegan,326
+24,28,Sociology,High School,F,Beverages,Pescatarian,210
+25,27,Psychology,Undergraduate,C,Snacks,Non-Vegetarian,509
+26,22,Chemistry,Undergraduate,B,Grains,Vegan,363
+27,24,Biology,Undergraduate,A,Vegetables,Vegan,71
+28,23,Sociology,PhD,A,Snacks,Vegan,302
+29,32,Physics,High School,B,Fruits,Pescatarian,610
+30,16,Physics,Undergraduate,A,Snacks,Vegan,524
+31,19,Literature,PhD,C,Protein,Non-Vegetarian,108
+32,19,Physics,Postgraduate,B,Fruits,Pescatarian,560
+33,20,Sociology,Postgraduate,F,Snacks,Vegetarian,525
+34,33,Sociology,Undergraduate,C,Dairy,Vegetarian,239
+35,22,Psychology,High School,A,Vegetables,Pescatarian,612
+36,30,Mathematics,Undergraduate,B,Snacks,Non-Vegetarian,616
+37,27,History,Postgraduate,C,Snacks,Pescatarian,293
+38,15,Physics,High School,A,Dairy,Pescatarian,554
+39,34,Literature,High School,B,Desserts,Pescatarian,180
+40,31,Physics,Postgraduate,D,Desserts,Pescatarian,534
+41,21,Psychology,PhD,F,Dairy,Vegan,696
+42,27,Sociology,PhD,A,Dairy,Vegetarian,70
+43,18,Biology,Undergraduate,A,Fruits,Non-Vegetarian,216
+44,18,Physics,High School,D,Desserts,Vegan,323
+45,20,Mathematics,Undergraduate,D,Vegetables,Vegetarian,437
+46,33,Biology,High School,C,Grains,Pescatarian,650
+47,26,Psychology,Postgraduate,F,Protein,Vegetarian,365
+48,21,Physics,High School,F,Vegetables,Vegetarian,63
+49,24,Biology,High School,A,Protein,Vegan,291
+50,33,Physics,Postgraduate,D,Vegetables,Vegan,395
+51,21,Literature,PhD,F,Snacks,Non-Vegetarian,614
+52,17,Psychology,Postgraduate,B,Grains,Pescatarian,389
+53,27,History,High School,F,Beverages,Pescatarian,141
+54,27,Sociology,Postgraduate,A,Desserts,Pescatarian,416
+55,32,Chemistry,High School,F,Grains,Vegetarian,504
+56,34,Sociology,PhD,C,Vegetables,Vegetarian,477
+57,22,Sociology,PhD,D,Protein,Pescatarian,558
+58,23,Biology,High School,A,Grains,Non-Vegetarian,84
+59,21,Psychology,PhD,A,Snacks,Vegetarian,255
+60,15,Physics,Postgraduate,D,Vegetables,Non-Vegetarian,130
+61,17,Chemistry,PhD,D,Snacks,Vegetarian,611
+62,27,Biology,Undergraduate,D,Grains,Vegan,437
+63,31,Chemistry,PhD,A,Fruits,Vegan,51
+64,15,History,Undergraduate,D,Snacks,Pescatarian,439
+65,20,Literature,Postgraduate,D,Beverages,Vegan,615
+66,20,Psychology,PhD,A,Beverages,Vegetarian,155
+67,26,Biology,PhD,A,Desserts,Vegetarian,526
+68,27,Sociology,PhD,C,Beverages,Vegan,451
+69,27,Mathematics,Postgraduate,F,Snacks,Vegan,605
+70,29,Biology,Postgraduate,B,Dairy,Vegan,211
+71,30,Mathematics,Undergraduate,A,Desserts,Pescatarian,251
+72,25,Sociology,High School,B,Desserts,Vegan,319
+73,19,Literature,Postgraduate,C,Snacks,Vegetarian,320
+74,18,Psychology,PhD,F,Grains,Vegan,505
+75,17,Physics,Undergraduate,F,Fruits,Pescatarian,511
+76,33,Biology,PhD,F,Beverages,Pescatarian,301
+77,34,Sociology,PhD,C,Fruits,Vegetarian,345
+78,32,Biology,Postgraduate,D,Beverages,Vegetarian,387
+79,29,History,High School,F,Dairy,Vegan,102
+80,23,Literature,PhD,F,Grains,Vegetarian,266
+81,31,History,Postgraduate,C,Snacks,Non-Vegetarian,237
+82,28,Chemistry,Undergraduate,D,Fruits,Vegetarian,429
+83,29,Psychology,PhD,F,Fruits,Non-Vegetarian,542
+84,15,Chemistry,Undergraduate,F,Snacks,Non-Vegetarian,90
+85,17,Biology,Postgraduate,D,Grains,Vegetarian,206
+86,30,Psychology,Postgraduate,A,Grains,Non-Vegetarian,64
+87,25,Literature,Postgraduate,A,Desserts,Vegetarian,114
+88,26,Literature,Postgraduate,F,Beverages,Vegetarian,570
+89,24,Sociology,Postgraduate,B,Dairy,Pescatarian,393
+90,30,Biology,High School,D,Desserts,Non-Vegetarian,178
+91,22,Chemistry,Undergraduate,D,Snacks,Non-Vegetarian,697
+92,20,History,High School,B,Desserts,Vegan,521
+93,26,Physics,Undergraduate,D,Vegetables,Vegetarian,112
+94,22,Mathematics,PhD,C,Snacks,Pescatarian,188
+95,18,Physics,PhD,D,Beverages,Pescatarian,548
+96,22,Chemistry,Undergraduate,D,Grains,Vegan,642
+97,32,Chemistry,PhD,D,Vegetables,Non-Vegetarian,441
+98,19,Literature,PhD,A,Fruits,Pescatarian,468
+99,23,Physics,PhD,C,Beverages,Non-Vegetarian,338
+100,18,Literature,High School,D,Snacks,Pescatarian,428
+101,31,Literature,High School,C,Dairy,Pescatarian,539
+102,23,History,Postgraduate,C,Vegetables,Vegetarian,280
+103,15,Psychology,Undergraduate,C,Dairy,Non-Vegetarian,90
+104,34,Mathematics,PhD,B,Desserts,Pescatarian,77
+105,27,Physics,Undergraduate,D,Vegetables,Vegetarian,184
+106,30,Psychology,Postgraduate,A,Dairy,Pescatarian,250
+107,27,Sociology,Postgraduate,A,Fruits,Vegetarian,82
+108,28,Physics,PhD,A,Protein,Vegetarian,97
+109,17,Psychology,Postgraduate,A,Snacks,Non-Vegetarian,552
+110,20,Literature,PhD,D,Snacks,Vegetarian,456
+111,32,Chemistry,Postgraduate,A,Beverages,Pescatarian,623
+112,33,History,Postgraduate,C,Vegetables,Vegan,148
+113,19,Mathematics,PhD,B,Dairy,Pescatarian,596
+114,29,Psychology,Postgraduate,F,Desserts,Pescatarian,662
+115,16,Chemistry,Postgraduate,A,Snacks,Vegetarian,511
+116,24,Physics,Postgraduate,F,Snacks,Pescatarian,692
+117,32,Psychology,Undergraduate,F,Desserts,Vegetarian,54
+118,27,Biology,High School,F,Fruits,Non-Vegetarian,267
+119,19,Chemistry,Undergraduate,C,Dairy,Vegetarian,552
+120,15,Sociology,Postgraduate,A,Snacks,Non-Vegetarian,447
+121,15,Chemistry,High School,D,Beverages,Vegan,442
+122,32,Mathematics,Undergraduate,C,Snacks,Pescatarian,256
+123,29,Sociology,Undergraduate,D,Grains,Non-Vegetarian,64
+124,31,History,Undergraduate,A,Protein,Vegan,603
+125,25,Mathematics,PhD,C,Fruits,Vegetarian,510
+126,31,Physics,Postgraduate,F,Vegetables,Vegan,624
+127,27,Sociology,Postgraduate,C,Dairy,Non-Vegetarian,290
+128,15,Psychology,High School,C,Desserts,Pescatarian,613
+129,16,Biology,Undergraduate,A,Beverages,Vegan,145
+130,23,Mathematics,Postgraduate,F,Fruits,Vegan,534
+131,17,Biology,Undergraduate,F,Grains,Vegetarian,456
+132,15,Physics,Postgraduate,B,Grains,Vegetarian,280
+133,30,Physics,Undergraduate,B,Desserts,Pescatarian,220
+134,20,History,Postgraduate,D,Protein,Vegetarian,590
+135,31,Physics,High School,B,Grains,Non-Vegetarian,85
+136,19,Chemistry,Undergraduate,A,Desserts,Non-Vegetarian,574
+137,19,Chemistry,Postgraduate,C,Protein,Vegan,209
+138,20,History,High School,F,Fruits,Vegetarian,292
+139,17,Chemistry,High School,C,Dairy,Vegetarian,135
+140,19,Psychology,Postgraduate,A,Fruits,Vegan,627
+141,19,Literature,Undergraduate,C,Desserts,Pescatarian,606
+142,24,Biology,PhD,F,Dairy,Vegetarian,623
+143,24,Biology,High School,B,Desserts,Vegetarian,695
+144,33,Psychology,High School,D,Fruits,Pescatarian,77
+145,31,Literature,Postgraduate,F,Snacks,Vegetarian,669
+146,28,Sociology,PhD,F,Snacks,Non-Vegetarian,605
+147,23,History,PhD,F,Fruits,Non-Vegetarian,389
+148,28,History,PhD,F,Grains,Pescatarian,380
+149,15,Physics,Postgraduate,A,Grains,Pescatarian,689
+150,33,Biology,Undergraduate,F,Dairy,Non-Vegetarian,555
+151,27,Biology,High School,C,Dairy,Non-Vegetarian,397
+152,27,Physics,Postgraduate,A,Snacks,Non-Vegetarian,522
+153,18,Sociology,PhD,B,Protein,Non-Vegetarian,280
+154,15,Mathematics,High School,C,Fruits,Pescatarian,239
+155,31,Biology,High School,C,Protein,Pescatarian,274
+156,22,Biology,PhD,C,Dairy,Vegan,434
+157,16,Mathematics,PhD,C,Protein,Pescatarian,426
+158,22,Physics,High School,A,Desserts,Non-Vegetarian,332
+159,21,Mathematics,High School,B,Vegetables,Vegetarian,682
+160,16,Biology,Undergraduate,B,Snacks,Non-Vegetarian,677
+161,17,Physics,Undergraduate,F,Snacks,Non-Vegetarian,308
+162,32,Mathematics,Postgraduate,D,Desserts,Pescatarian,408
+163,26,Sociology,High School,A,Dairy,Vegan,505
+164,15,Physics,Undergraduate,B,Fruits,Vegetarian,460
+165,26,Biology,High School,A,Fruits,Vegetarian,698
+166,19,Psychology,PhD,A,Grains,Vegan,367
+167,31,History,Undergraduate,F,Beverages,Non-Vegetarian,274
+168,30,Biology,PhD,B,Desserts,Pescatarian,283
+169,29,Chemistry,PhD,D,Beverages,Non-Vegetarian,423
+170,29,History,PhD,D,Beverages,Vegetarian,657
+171,19,Biology,Postgraduate,D,Fruits,Vegetarian,521
+172,28,History,PhD,C,Dairy,Non-Vegetarian,282
+173,16,Literature,Postgraduate,B,Snacks,Vegetarian,162
+174,25,Biology,High School,C,Fruits,Pescatarian,546
+175,33,Physics,High School,C,Desserts,Vegetarian,491
+176,21,Physics,Undergraduate,C,Desserts,Pescatarian,613
+177,20,Literature,Undergraduate,F,Snacks,Non-Vegetarian,317
+178,16,Sociology,Postgraduate,F,Dairy,Non-Vegetarian,559
+179,20,Literature,High School,A,Dairy,Pescatarian,435
+180,32,Literature,Undergraduate,A,Dairy,Pescatarian,436
+181,16,History,Undergraduate,B,Beverages,Pescatarian,162
+182,32,Mathematics,Undergraduate,B,Vegetables,Vegetarian,662
+183,29,Physics,High School,F,Fruits,Non-Vegetarian,674
+184,33,Mathematics,Undergraduate,A,Dairy,Vegetarian,130
+185,16,Literature,High School,A,Grains,Vegetarian,162
+186,34,Sociology,PhD,C,Dairy,Pescatarian,51
+187,20,Physics,PhD,D,Dairy,Vegetarian,691
+188,15,Biology,PhD,D,Snacks,Vegan,269
+189,29,Biology,Postgraduate,D,Protein,Vegan,615
+190,24,Biology,High School,F,Snacks,Vegan,274
+191,33,History,Undergraduate,D,Grains,Vegan,434
+192,31,Chemistry,Postgraduate,D,Fruits,Vegan,452
+193,19,Literature,Postgraduate,C,Grains,Pescatarian,687
+194,18,Chemistry,PhD,B,Protein,Vegetarian,179
+195,24,Psychology,High School,F,Grains,Vegetarian,102
+196,31,History,Undergraduate,A,Dairy,Vegan,465
+197,24,Biology,Postgraduate,C,Grains,Vegetarian,296
+198,31,Physics,Undergraduate,D,Fruits,Vegan,488
+199,34,History,PhD,A,Dairy,Vegetarian,252
+200,19,Physics,High School,C,Dairy,Pescatarian,233
+201,16,Mathematics,Undergraduate,F,Dairy,Non-Vegetarian,172
+202,20,Mathematics,Undergraduate,D,Snacks,Vegan,450
+203,16,Physics,Postgraduate,F,Vegetables,Pescatarian,343
+204,27,Biology,Undergraduate,C,Vegetables,Pescatarian,329
+205,25,Chemistry,High School,A,Fruits,Vegan,659
+206,25,Literature,High School,B,Vegetables,Vegan,247
+207,30,History,Undergraduate,D,Grains,Pescatarian,560
+208,25,History,Postgraduate,F,Protein,Vegan,193
+209,33,Biology,Postgraduate,A,Beverages,Vegan,658
+210,29,Literature,PhD,A,Vegetables,Non-Vegetarian,250
+211,30,Mathematics,High School,B,Desserts,Non-Vegetarian,173
+212,25,Chemistry,PhD,C,Grains,Vegan,236
+213,30,Literature,Postgraduate,B,Grains,Pescatarian,375
+214,22,Mathematics,PhD,B,Desserts,Vegetarian,513
+215,18,Literature,Postgraduate,C,Protein,Vegan,398
+216,22,Psychology,PhD,C,Beverages,Vegan,452
+217,18,History,PhD,C,Grains,Vegetarian,395
+218,17,Psychology,High School,A,Desserts,Vegetarian,560
+219,17,Literature,High School,A,Fruits,Vegetarian,196
+220,32,History,PhD,D,Vegetables,Non-Vegetarian,197
+221,33,Chemistry,Postgraduate,D,Dairy,Non-Vegetarian,538
+222,33,Biology,Postgraduate,B,Desserts,Non-Vegetarian,689
+223,19,Psychology,High School,B,Beverages,Pescatarian,600
+224,32,Biology,High School,D,Desserts,Vegan,387
+225,24,Mathematics,Undergraduate,F,Desserts,Non-Vegetarian,690
+226,20,Mathematics,High School,B,Protein,Pescatarian,522
+227,15,Sociology,Postgraduate,F,Snacks,Pescatarian,200
+228,19,Mathematics,High School,F,Dairy,Vegetarian,464
+229,23,Mathematics,Undergraduate,C,Snacks,Vegetarian,347
+230,26,History,PhD,A,Snacks,Non-Vegetarian,660
+231,28,Chemistry,PhD,D,Snacks,Vegan,312
+232,16,Mathematics,Postgraduate,A,Beverages,Vegan,193
+233,31,Physics,Undergraduate,D,Dairy,Vegan,395
+234,28,Chemistry,PhD,A,Snacks,Pescatarian,673
+235,27,Physics,PhD,D,Fruits,Pescatarian,621
+236,23,Physics,High School,A,Snacks,Pescatarian,51
+237,29,Biology,PhD,C,Protein,Pescatarian,353
+238,29,Literature,Postgraduate,F,Desserts,Vegan,303
+239,25,Physics,PhD,D,Fruits,Vegan,502
+240,30,Biology,Postgraduate,F,Grains,Vegetarian,86
+241,31,Mathematics,Postgraduate,D,Desserts,Vegan,209
+242,18,Physics,High School,D,Protein,Pescatarian,58
+243,15,Literature,Undergraduate,C,Dairy,Pescatarian,282
+244,22,Sociology,Postgraduate,A,Fruits,Non-Vegetarian,148
+245,31,Psychology,PhD,D,Vegetables,Vegan,257
+246,17,Biology,PhD,A,Grains,Vegan,180
+247,34,Sociology,Postgraduate,C,Beverages,Vegetarian,453
+248,29,Biology,PhD,B,Beverages,Vegetarian,201
+249,29,Psychology,High School,F,Protein,Pescatarian,103
+250,28,Literature,PhD,D,Dairy,Non-Vegetarian,169
+251,28,Chemistry,High School,C,Snacks,Vegan,677
+252,16,Psychology,Postgraduate,A,Snacks,Vegan,636
+253,27,History,Postgraduate,D,Protein,Non-Vegetarian,674
+254,28,Sociology,Postgraduate,A,Dairy,Vegan,469
+255,33,Physics,High School,B,Desserts,Vegetarian,471
+256,21,Mathematics,PhD,D,Desserts,Non-Vegetarian,153
+257,17,History,High School,F,Desserts,Vegan,303
+258,29,Physics,PhD,D,Grains,Vegetarian,276
+259,28,Physics,PhD,F,Desserts,Vegetarian,161
+260,25,Biology,High School,A,Vegetables,Pescatarian,559
+261,29,Psychology,Undergraduate,D,Fruits,Vegan,522
+262,27,Chemistry,Postgraduate,C,Beverages,Non-Vegetarian,148
+263,32,Sociology,PhD,C,Desserts,Vegetarian,202
+264,20,Physics,PhD,B,Protein,Vegetarian,387
+265,17,Biology,High School,C,Protein,Pescatarian,212
+266,33,Sociology,Undergraduate,B,Snacks,Non-Vegetarian,210
+267,29,Psychology,Postgraduate,A,Vegetables,Pescatarian,629
+268,19,Chemistry,Undergraduate,F,Vegetables,Vegetarian,447
+269,24,History,Postgraduate,A,Grains,Vegan,326
+270,21,Psychology,PhD,F,Desserts,Non-Vegetarian,553
+271,31,Mathematics,PhD,F,Desserts,Vegan,441
+272,21,Psychology,High School,B,Grains,Vegan,184
+273,26,Physics,High School,C,Vegetables,Pescatarian,244
+274,31,Chemistry,Undergraduate,C,Fruits,Vegetarian,450
+275,27,Psychology,Undergraduate,B,Beverages,Vegan,689
+276,34,Physics,Postgraduate,B,Dairy,Non-Vegetarian,82
+277,18,Physics,High School,A,Grains,Pescatarian,509
+278,24,Chemistry,PhD,B,Snacks,Non-Vegetarian,519
+279,17,Psychology,High School,C,Beverages,Vegan,424
+280,23,Psychology,Undergraduate,B,Snacks,Non-Vegetarian,71
+281,27,Biology,High School,B,Vegetables,Pescatarian,87
+282,32,Sociology,PhD,F,Beverages,Pescatarian,279
+283,29,Biology,High School,B,Vegetables,Vegetarian,414
+284,18,Psychology,Undergraduate,A,Protein,Non-Vegetarian,612
+285,29,History,PhD,B,Snacks,Pescatarian,487
+286,16,Psychology,Postgraduate,D,Grains,Pescatarian,332
+287,29,Mathematics,Postgraduate,D,Fruits,Vegetarian,76
+288,22,Physics,PhD,F,Beverages,Pescatarian,275
+289,22,Literature,PhD,F,Desserts,Vegan,326
+290,31,Psychology,PhD,D,Grains,Non-Vegetarian,658
+291,26,Mathematics,Undergraduate,F,Fruits,Vegetarian,333
+292,33,Mathematics,PhD,F,Dairy,Vegan,530
+293,24,Sociology,Undergraduate,C,Fruits,Vegan,502
+294,23,Chemistry,PhD,C,Beverages,Non-Vegetarian,565
+295,19,Psychology,Undergraduate,B,Snacks,Vegetarian,596
+296,20,Chemistry,Undergraduate,D,Snacks,Pescatarian,241
+297,34,History,High School,A,Snacks,Vegetarian,98
+298,16,Literature,Postgraduate,D,Dairy,Pescatarian,561
+299,27,Mathematics,PhD,D,Protein,Non-Vegetarian,66
+300,20,Physics,Postgraduate,C,Beverages,Non-Vegetarian,221
+301,19,Physics,Postgraduate,C,Vegetables,Vegan,269
+302,15,Chemistry,High School,F,Vegetables,Vegan,207
+303,20,Mathematics,Postgraduate,A,Vegetables,Vegan,526
+304,20,Sociology,Postgraduate,C,Dairy,Non-Vegetarian,95
+305,30,Chemistry,PhD,F,Snacks,Pescatarian,422
+306,18,Literature,Undergraduate,A,Desserts,Non-Vegetarian,567
+307,25,Chemistry,PhD,C,Desserts,Non-Vegetarian,148
+308,23,Mathematics,PhD,D,Dairy,Vegan,86
+309,17,Psychology,Postgraduate,D,Dairy,Vegetarian,329
+310,33,Sociology,Postgraduate,A,Snacks,Vegan,398
+311,22,Mathematics,PhD,A,Snacks,Vegetarian,546
+312,19,Sociology,PhD,C,Dairy,Pescatarian,351
+313,18,Biology,Postgraduate,C,Beverages,Pescatarian,230
+314,20,Biology,Undergraduate,A,Grains,Pescatarian,656
+315,16,Physics,Undergraduate,A,Snacks,Vegan,148
+316,34,Sociology,PhD,F,Desserts,Vegan,165
+317,25,Literature,Undergraduate,F,Grains,Vegan,240
+318,18,Chemistry,PhD,F,Desserts,Non-Vegetarian,302
+319,29,Biology,High School,D,Vegetables,Vegan,210
+320,20,Chemistry,Postgraduate,D,Snacks,Non-Vegetarian,305
+321,31,Chemistry,PhD,F,Snacks,Pescatarian,372
+322,20,Literature,PhD,F,Fruits,Vegan,177
+323,33,Mathematics,PhD,A,Beverages,Non-Vegetarian,67
+324,16,Chemistry,Undergraduate,D,Grains,Pescatarian,615
+325,29,Sociology,PhD,F,Vegetables,Pescatarian,619
+326,25,Literature,High School,B,Desserts,Vegan,372
+327,22,Biology,Undergraduate,C,Grains,Vegetarian,675
+328,33,Psychology,Postgraduate,F,Protein,Vegetarian,337
+329,27,Chemistry,High School,D,Vegetables,Pescatarian,688
+330,26,Physics,PhD,F,Desserts,Vegetarian,204
+331,19,Literature,High School,B,Dairy,Vegetarian,539
+332,20,Mathematics,PhD,A,Beverages,Non-Vegetarian,435
+333,18,History,High School,D,Dairy,Non-Vegetarian,153
+334,33,Biology,Undergraduate,A,Protein,Non-Vegetarian,442
+335,34,Biology,PhD,C,Vegetables,Pescatarian,295
+336,15,History,Undergraduate,A,Fruits,Vegetarian,225
+337,34,Sociology,High School,F,Protein,Vegan,88
+338,31,Psychology,PhD,B,Vegetables,Vegetarian,526
+339,26,Biology,Postgraduate,A,Desserts,Pescatarian,587
+340,29,Biology,Postgraduate,B,Snacks,Non-Vegetarian,457
+341,15,Mathematics,PhD,D,Beverages,Pescatarian,574
+342,28,Biology,High School,D,Dairy,Non-Vegetarian,555
+343,20,Literature,Postgraduate,F,Beverages,Pescatarian,85
+344,19,Sociology,PhD,F,Protein,Vegan,69
+345,25,Psychology,Postgraduate,F,Beverages,Non-Vegetarian,370
+346,18,Physics,PhD,B,Desserts,Non-Vegetarian,561
+347,27,Psychology,High School,C,Vegetables,Vegetarian,449
+348,25,Sociology,High School,C,Dairy,Pescatarian,520
+349,17,Literature,Undergraduate,C,Protein,Vegetarian,192
+350,15,Sociology,Postgraduate,D,Snacks,Pescatarian,141
+351,20,Mathematics,Undergraduate,D,Desserts,Vegan,403
+352,32,Physics,High School,C,Beverages,Vegetarian,100
+353,24,Psychology,PhD,F,Snacks,Non-Vegetarian,624
+354,19,Chemistry,High School,A,Dairy,Vegan,239
+355,24,Psychology,High School,C,Desserts,Pescatarian,174
+356,26,Mathematics,PhD,A,Snacks,Non-Vegetarian,199
+357,16,Physics,Undergraduate,C,Snacks,Pescatarian,363
+358,27,Literature,Postgraduate,A,Grains,Non-Vegetarian,619
+359,22,Sociology,High School,F,Desserts,Pescatarian,391
+360,16,Sociology,High School,D,Protein,Non-Vegetarian,354
+361,34,Literature,Postgraduate,C,Protein,Pescatarian,103
+362,15,Physics,High School,C,Grains,Vegetarian,493
+363,19,Literature,Postgraduate,F,Grains,Non-Vegetarian,662
+364,23,Biology,Postgraduate,B,Protein,Non-Vegetarian,313
+365,31,Psychology,Postgraduate,C,Grains,Vegetarian,102
+366,23,Mathematics,PhD,A,Grains,Pescatarian,621
+367,25,Literature,Undergraduate,F,Protein,Non-Vegetarian,669
+368,29,Mathematics,Undergraduate,B,Desserts,Vegetarian,54
+369,20,Biology,PhD,C,Snacks,Pescatarian,152
+370,17,Sociology,Undergraduate,C,Desserts,Non-Vegetarian,245
+371,31,Literature,Undergraduate,D,Snacks,Non-Vegetarian,399
+372,19,Physics,Undergraduate,B,Grains,Pescatarian,96
+373,26,Sociology,High School,F,Grains,Vegetarian,318
+374,32,Sociology,PhD,A,Fruits,Non-Vegetarian,419
+375,28,Physics,Undergraduate,C,Beverages,Pescatarian,685
+376,25,Psychology,PhD,F,Beverages,Non-Vegetarian,155
+377,23,Psychology,Undergraduate,D,Snacks,Pescatarian,169
+378,16,Literature,Undergraduate,C,Dairy,Non-Vegetarian,653
+379,26,Sociology,PhD,B,Grains,Vegan,107
+380,17,Literature,Postgraduate,F,Vegetables,Vegetarian,395
+381,17,Psychology,PhD,A,Grains,Vegetarian,523
+382,15,Chemistry,Postgraduate,D,Fruits,Vegan,166
+383,22,Biology,High School,F,Snacks,Pescatarian,176
+384,22,Literature,PhD,C,Desserts,Vegetarian,442
+385,25,Literature,Postgraduate,A,Grains,Pescatarian,690
+386,23,Chemistry,Undergraduate,C,Desserts,Non-Vegetarian,107
+387,19,Psychology,High School,C,Protein,Vegan,683
+388,28,Literature,PhD,B,Protein,Pescatarian,562
+389,17,Mathematics,Postgraduate,B,Grains,Pescatarian,145
+390,19,Psychology,Postgraduate,C,Grains,Vegetarian,687
+391,19,Psychology,PhD,D,Dairy,Non-Vegetarian,167
+392,33,Biology,Postgraduate,B,Fruits,Vegetarian,609
+393,28,Literature,PhD,B,Protein,Non-Vegetarian,650
+394,18,Sociology,Postgraduate,B,Protein,Vegetarian,537
+395,27,History,Undergraduate,B,Vegetables,Pescatarian,286
+396,24,History,PhD,A,Protein,Pescatarian,321
+397,32,History,PhD,C,Protein,Vegan,238
+398,22,Biology,High School,A,Vegetables,Pescatarian,496
+399,22,History,Undergraduate,F,Fruits,Pescatarian,630
+400,21,Chemistry,PhD,F,Beverages,Pescatarian,296
+401,22,Physics,Postgraduate,F,Snacks,Pescatarian,125
+402,28,Psychology,Postgraduate,A,Desserts,Vegan,203
+403,33,Sociology,Postgraduate,C,Fruits,Non-Vegetarian,484
+404,20,Physics,High School,F,Dairy,Vegan,135
+405,15,Biology,PhD,B,Vegetables,Vegan,334
+406,29,Psychology,Postgraduate,F,Dairy,Vegetarian,269
+407,15,Biology,High School,D,Beverages,Non-Vegetarian,118
+408,31,Biology,High School,B,Desserts,Vegetarian,96
+409,15,Chemistry,PhD,B,Desserts,Vegan,143
+410,29,Mathematics,Postgraduate,B,Protein,Pescatarian,502
+411,16,Mathematics,Undergraduate,F,Grains,Non-Vegetarian,253
+412,28,Biology,Postgraduate,B,Snacks,Pescatarian,267
+413,22,History,Undergraduate,D,Grains,Vegan,523
+414,22,Physics,Undergraduate,A,Vegetables,Vegan,481
+415,33,History,Postgraduate,D,Fruits,Vegan,390
+416,21,Literature,Undergraduate,C,Protein,Non-Vegetarian,600
+417,33,Biology,High School,B,Vegetables,Vegetarian,661
+418,20,Literature,High School,D,Dairy,Vegetarian,338
+419,20,History,Postgraduate,F,Beverages,Pescatarian,303
+420,17,Literature,PhD,C,Dairy,Non-Vegetarian,406
+421,21,Biology,High School,D,Vegetables,Pescatarian,72
+422,33,Chemistry,Postgraduate,B,Beverages,Pescatarian,571
+423,22,Mathematics,Undergraduate,F,Desserts,Vegetarian,149
+424,24,Physics,High School,B,Dairy,Non-Vegetarian,229
+425,34,Literature,Postgraduate,C,Grains,Vegan,272
+426,29,Biology,Postgraduate,D,Vegetables,Pescatarian,491
+427,29,Chemistry,PhD,B,Vegetables,Vegan,657
+428,15,History,Undergraduate,C,Grains,Non-Vegetarian,374
+429,34,Mathematics,Undergraduate,F,Fruits,Pescatarian,565
+430,21,Biology,Undergraduate,D,Snacks,Vegan,65
+431,18,Physics,Postgraduate,D,Grains,Vegan,385
+432,20,History,Postgraduate,C,Desserts,Vegetarian,307
+433,15,Chemistry,Undergraduate,D,Desserts,Non-Vegetarian,546
+434,19,History,Postgraduate,F,Dairy,Non-Vegetarian,209
+435,15,Sociology,PhD,F,Desserts,Non-Vegetarian,524
+436,18,History,Postgraduate,D,Grains,Pescatarian,429
+437,16,Literature,Postgraduate,B,Protein,Vegetarian,594
+438,24,History,High School,B,Fruits,Pescatarian,476
+439,19,Chemistry,PhD,F,Snacks,Non-Vegetarian,662
+440,24,History,High School,B,Dairy,Pescatarian,317
+441,15,History,Undergraduate,C,Desserts,Vegan,626
+442,20,Psychology,Undergraduate,A,Grains,Pescatarian,466
+443,27,Biology,PhD,D,Dairy,Pescatarian,217
+444,29,Psychology,Postgraduate,C,Vegetables,Non-Vegetarian,92
+445,18,History,High School,F,Snacks,Vegan,605
+446,27,Biology,PhD,A,Grains,Non-Vegetarian,334
+447,34,Psychology,High School,F,Protein,Vegan,446
+448,29,History,Postgraduate,A,Dairy,Vegan,61
+449,22,Physics,High School,C,Beverages,Vegan,656
+450,19,Psychology,PhD,A,Beverages,Non-Vegetarian,351
+451,29,Biology,Postgraduate,B,Snacks,Vegan,302
+452,18,Psychology,Postgraduate,C,Fruits,Vegetarian,548
+453,26,Sociology,PhD,D,Beverages,Vegetarian,84
+454,27,Sociology,Postgraduate,F,Fruits,Vegetarian,139
+455,16,Physics,High School,B,Dairy,Vegetarian,654
+456,33,Chemistry,Undergraduate,D,Dairy,Non-Vegetarian,651
+457,33,Chemistry,PhD,A,Desserts,Pescatarian,467
+458,18,Biology,High School,B,Snacks,Pescatarian,164
+459,18,Literature,Postgraduate,D,Protein,Vegetarian,666
+460,25,Chemistry,Undergraduate,C,Vegetables,Pescatarian,245
+461,19,Biology,High School,A,Grains,Vegetarian,550
+462,34,Physics,PhD,D,Beverages,Vegetarian,675
+463,25,Literature,Postgraduate,A,Protein,Pescatarian,542
+464,24,Literature,PhD,D,Desserts,Pescatarian,124
+465,22,Sociology,High School,F,Grains,Vegan,462
+466,20,History,Undergraduate,C,Snacks,Vegetarian,425
+467,20,Literature,High School,B,Grains,Pescatarian,469
+468,22,Mathematics,High School,D,Vegetables,Pescatarian,326
+469,29,Biology,Postgraduate,A,Grains,Pescatarian,443
+470,28,Literature,PhD,C,Snacks,Vegan,506
+471,25,Literature,High School,B,Protein,Vegetarian,241
+472,26,Mathematics,High School,A,Vegetables,Vegetarian,148
+473,27,Literature,Undergraduate,C,Fruits,Non-Vegetarian,597
+474,22,History,Undergraduate,A,Desserts,Vegan,145
+475,32,Mathematics,PhD,C,Grains,Vegan,239
+476,15,Sociology,PhD,B,Dairy,Vegetarian,86
+477,29,Psychology,Postgraduate,B,Beverages,Non-Vegetarian,418
+478,22,Literature,PhD,A,Grains,Non-Vegetarian,574
+479,25,Literature,Undergraduate,C,Fruits,Vegetarian,328
+480,26,Biology,PhD,D,Grains,Pescatarian,266
+481,26,History,High School,B,Snacks,Vegan,322
+482,18,Biology,PhD,D,Protein,Non-Vegetarian,111
+483,30,Psychology,PhD,D,Protein,Pescatarian,645
+484,18,Literature,Postgraduate,F,Dairy,Non-Vegetarian,391
+485,19,History,High School,A,Desserts,Pescatarian,446
+486,19,Mathematics,Postgraduate,A,Dairy,Pescatarian,68
+487,22,Literature,Undergraduate,A,Desserts,Vegan,226
+488,24,Sociology,PhD,C,Snacks,Non-Vegetarian,661
+489,31,Literature,PhD,B,Beverages,Non-Vegetarian,445
+490,23,Chemistry,Undergraduate,B,Desserts,Pescatarian,494
+491,33,History,Postgraduate,F,Protein,Vegetarian,282
+492,28,Chemistry,High School,F,Protein,Non-Vegetarian,125
+493,22,Mathematics,Postgraduate,F,Fruits,Vegan,314
+494,23,Literature,Postgraduate,D,Desserts,Vegetarian,504
+495,25,Mathematics,High School,A,Snacks,Non-Vegetarian,433
+496,15,Physics,PhD,C,Fruits,Vegan,613
+497,28,Literature,Postgraduate,B,Fruits,Vegetarian,555
+498,19,Chemistry,Undergraduate,C,Vegetables,Non-Vegetarian,416
+499,28,History,High School,A,Protein,Vegan,193
+500,18,Chemistry,PhD,A,Dairy,Vegetarian,118
